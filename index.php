@@ -38,7 +38,7 @@
 	    $this->myPublic = 1;
  	    $this->myPrivate = 2; 
 	    $this->myProtected = 3;
-	    //This is how you  call a method 
+	    //This is how you call a method 
 	    $this->sayHello('Marco');
 	}
 
